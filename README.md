@@ -34,10 +34,15 @@ Roadmap to learn AI by dBug Labs-
 * [Stanford University's CS224n - NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/)
 
+## 5. Natural Language Processing
 
-## Deploying/Shipping Projects
+* [Natural Language Processing by National Research University Higher School of Economics](https://www.coursera.org/learn/language-processing)
+* [NLP course by Yandex Data School](https://github.com/yandexdataschool/nlp_course)
 
-### Feel free to use any of these frameworks, all are not required
+
+## 7. Deploying/Shipping Projects
+
+### Feel free to use any of these frameworks, all are not required.
 
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 * [Full Stack Python](https://www.fullstackpython.com/)
@@ -47,8 +52,18 @@ Roadmap to learn AI by dBug Labs-
 * [Flutter](https://www.tutorialspoint.com/flutter/index.htm)
 
 
+# 8. Learn and gain information about AI through following -
+
+* [Towards Data Science](https://towardsdatascience.com/)
+* [Toward AI](https://towardsai.net/)
+* [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
+* [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
+* [Artificial Intelligence with Lex Fridman, MIT AI](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 
 
+
+
+### Most important stuff around AI is that it is an ever evolving field and making a perfect roadmap is not possible,so make changes as you proceed in your ML/AI/DL journey . PRs are welcome.
 
 
 
