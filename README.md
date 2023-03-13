@@ -21,6 +21,31 @@ Roadmap to learn AI by dBug Labs-
 * scikit-learn
 * SciPy
 
+# 3. Machine Learning
+* Try reading official documentation of various framework and libraries, learn to implement them the usual way and also from scratch.
+* [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning) (Note : this course is now divided into 3)
+* [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+* GeeksForGeeks Articles
+
+
+# 4. Deep Learning
+* [TensorFlow in Practice Specialization - Coursera](https://www.coursera.org/specializations/tensorflow-in-practice?)
+* [fast.ai](http://www.fast.ai/)
+* [Stanford University's CS224n - NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/)
+
+
+## Deploying/Shipping Projects
+
+### Feel free to use any of these frameworks, all are not required
+
+* [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+* [Full Stack Python](https://www.fullstackpython.com/)
+* [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment?)
+* [Django](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+* [Flask](https://www.tutorialspoint.com/flask/index.htm)
+* [Flutter](https://www.tutorialspoint.com/flutter/index.htm)
+
 
 
 
