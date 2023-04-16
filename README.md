@@ -51,19 +51,13 @@ Roadmap to learn AI by dBug Labs-
 * [Flask](https://www.tutorialspoint.com/flask/index.htm)
 * [Flutter](https://www.tutorialspoint.com/flutter/index.htm)
 
+## 8. Resources
 
-# 8. Learn and gain information about AI through following -
+### Dataset Resources
+* Kaggle
+* [Google Dataset Database](https://datasetsearch.research.google.com/search?src=0&query=sportify&docid=L2cvMTFqOWJ3d2h0Xw%3D%3D)
 
-* [Towards Data Science](https://towardsdatascience.com/)
-* [Toward AI](https://towardsai.net/)
-* [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
-* [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
-* [Artificial Intelligence with Lex Fridman, MIT AI](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
-
-
-
-
-### Most important stuff around AI is that it is an ever evolving field and making a perfect roadmap is not possible,so make changes as you proceed in your ML/AI/DL journey . PRs are welcome.
+#### Most important stuff around AI is that it is an ever evolving field and making a perfect roadmap is not possible,so make changes as you proceed in your ML/AI/DL journey . PRs are welcome.
 
 
 
