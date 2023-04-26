@@ -5,12 +5,12 @@ Roadmap to learn AI by dBug Labs-
 ## 1. Absolute Basics of our Work
 
 * Basic computer architecture:
-  * [GPU vs CPU](https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/)
-  * [File Systems](https://wiki.microfocus.com/index.php/File_System_Primer)
-* [Linux](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics)
-* [Containers - Docker](https://docs.docker.com/engine/docker-overview/)
-* [Bash Cheatsheet](https://devhints.io/bash)
-* [Git-Introduction](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+  * GPU vs CPU
+  * File Systems
+* Linux and bash-scripting
+* Containers - Docker 
+* Requirement files and Environments
+* Git and Git-Hub
 
 
 ## 2. Data Science Stack
@@ -58,16 +58,6 @@ Roadmap to learn AI by dBug Labs-
 * [Google Dataset Database](https://datasetsearch.research.google.com/search?src=0&query=sportify&docid=L2cvMTFqOWJ3d2h0Xw%3D%3D)
 
 #### Most important stuff around AI is that it is an ever evolving field and making a perfect roadmap is not possible,so make changes as you proceed in your ML/AI/DL journey . PRs are welcome.
-
-
-
-
-
-
-
-
-
-
 
 
 
